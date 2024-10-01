@@ -4,8 +4,8 @@
 * This website is only made for my girlfriend. Unauthorized cloning of this repository is prohibited without the authorization of the repository owner.
 
  ## 下载方式 1 / Download Method 1
-* 如有需要可点击[此链接](https://github.com/user-attachments/files/17201835/html.zip)下载已被授权的模板.(此模板公开可用)
-* If necessary, you can click on [this link](https://github.com/user-attachments/files/17201835/html.zip) to download the authorized template. (This template is publicly available)
+* 如有需要可点击[此链接](https://github.com/user-attachments/files/17202419/html.zip)下载已被授权的模板.(此模板公开可用)
+* If necessary, you can click on [this link](https://github.com/user-attachments/files/17202419/html.zip) to download the authorized template. (This template is publicly available)
  
 #
  
