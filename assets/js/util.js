@@ -2,7 +2,7 @@
 
 	/**
 	 * Generate an indented list of links from a nav. Meant for use with panel().
-	 * | (c) @zhangsong | github.com/zhanfgsong0802/ |
+	 * | (c) @zhangsong | github.com/zhangsong0802/ |
 	 */
 	$.fn.navList = function() {
 
