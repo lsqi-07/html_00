@@ -1,6 +1,6 @@
 /*
 	Phantom by HTML5 UP
-	html5up.net | (c) @zhangsong | github.com/zhanfgsong0802/ |
+	html5up.net | (c) @zhangsong | github.com/zhangsong0802/ |
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
