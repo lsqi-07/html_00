@@ -1,7 +1,7 @@
 # 警告 / Warning / ⚠
 
-* 此网站只为我的女朋友一人制作,未经仓库主人授权，禁止克隆本仓库
-* This website is only made for my girlfriend. Unauthorized cloning of this repository is prohibited without the authorization of the repository owner.
+* 此网站只为我的好朋友一人制作,未经仓库主人授权，禁止克隆本仓库
+* This website is only created for my good friend alone. Unauthorized cloning of this repository is prohibited without the authorization of the repository owner.
 
  ## 下载方式 1 / Download Method 1
 * 如有需要可点击[此链接](https://github.com/user-attachments/files/17202419/html.zip)下载已被授权的模板.(此模板公开可用)
